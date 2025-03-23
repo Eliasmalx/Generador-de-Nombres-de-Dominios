@@ -1,2 +1,22 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+}
+
+h1{
+    background-color: white;
+    color: black;
+   
+}
+ul{
+    background-color:blue;
+    padding: 0 10px;
+    list-style-type: none;
+    border-radius: 15px;
+    border : double white 5px;
+    
+}
